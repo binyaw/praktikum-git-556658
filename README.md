@@ -60,7 +60,20 @@ Hasil konflik:
 
 ---
 
-### 🔄 Rebase (Squash Commit)
+### 🔄 Rebase
 
 Dibuat branch `feature/dark-mode`, kemudian melakukan beberapa commit.
 Selanjutnya, commit tersebut digabungkan menjadi satu menggunakan teknik squash.
+
+![Rebase](rebase.png)
+
+## 📌 Tugas 4
+
+1. Issues
+![Issues](isu.png)
+
+2. Collaborator
+![Colab](colab.png)
+
+3. Release
+![Release](release.png)
