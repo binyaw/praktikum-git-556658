@@ -38,7 +38,7 @@ Berikut adalah hasil konfigurasi branch protection:
    Digunakan untuk memperbaiki kesalahan penulisan (typo) pada website.
 
    Hasil:
-   ![Hotfix Typo](hostfis-typo.png)
+   ![Hotfix Typo](hotfis-typo.png)
 
 
 Setiap perubahan dilakukan di branch masing-masing, kemudian digabungkan ke branch `main`.
